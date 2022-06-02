@@ -1,0 +1,14 @@
+F:\Gameeeee\Gameeeee\bin\Debug\Gameeeee.exe.config
+F:\Gameeeee\Gameeeee\bin\Debug\Gameeeee.exe
+F:\Gameeeee\Gameeeee\bin\Debug\Gameeeee.pdb
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.csproj.AssemblyReference.cache
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.csproj.SuggestedBindingRedirects.cache
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.Form1.resources
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.Properties.Resources.resources
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.csproj.GenerateResource.cache
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.csproj.CoreCompileInputs.cache
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.exe
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.pdb
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.Form2.resources
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.Form3.resources
+F:\Gameeeee\Gameeeee\obj\Debug\Gameeeee.Menu.resources
